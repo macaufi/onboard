@@ -46,7 +46,7 @@ function walletLink(
                 .catch(() =>
                   reject({
                     message:
-                      'PoolTogether needs access to your account information.'
+                      'Macaufi needs access to your account information.'
                   })
                 )
             }),

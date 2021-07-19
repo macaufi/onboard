@@ -47,7 +47,7 @@ export const mobileWalletInstallMessage = (helpers: {
 
   return `
   <p style="font-size: 0.889rem;">
-    Tap the button below to <b>Open or Install ${selectedWallet}</b>. Click below to open PoolTogether with ${selectedWallet}'s in-app browser for a seamless experience.
+    Tap the button below to <b>Open or Install ${selectedWallet}</b>. Click below to open Macaufi with ${selectedWallet}'s in-app browser for a seamless experience.
   </p>
   `
 }
