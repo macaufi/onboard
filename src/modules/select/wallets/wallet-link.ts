@@ -46,7 +46,7 @@ function walletLink(
                 .catch(() =>
                   reject({
                     message:
-                      'Macaufi needs access to your account information.'
+                      'UbikFinance needs access to your account information.'
                   })
                 )
             }),
